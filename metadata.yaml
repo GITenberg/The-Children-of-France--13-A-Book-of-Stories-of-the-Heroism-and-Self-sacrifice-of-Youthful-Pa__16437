@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '6711'
     url: http://www.gutenberg.org/2009/agents/6711
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16437#The-Children-of-France--13-A-Book-of-Stories-of-the-Heroism-and-Self-sacrifice-of-Youthful-Pa_
 gutenberg_bookshelf:
 - Children's History
 - World War I
