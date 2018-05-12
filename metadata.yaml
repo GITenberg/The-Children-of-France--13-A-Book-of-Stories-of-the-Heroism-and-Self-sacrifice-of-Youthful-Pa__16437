@@ -1,0 +1,28 @@
+_repo: The-Children-of-France--13-A-Book-of-Stories-of-the-Heroism-and-Self-sacrifice-of-Youthful-Pa__16437
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Royce, Ruth
+    gutenberg_agent_id: '6711'
+    url: http://www.gutenberg.org/2009/agents/6711
+description: ''
+gutenberg_bookshelf:
+- Children's History
+- World War I
+gutenberg_issued: '2005-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16437'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Juvenile literature'
+title: "The Children of France\r\nA Book of Stories of the Heroism and Self-sacrifice\
+  \ of Youthful Patriots of France During the Great War"
+url: http://www.gutenberg.org/ebooks/16437
